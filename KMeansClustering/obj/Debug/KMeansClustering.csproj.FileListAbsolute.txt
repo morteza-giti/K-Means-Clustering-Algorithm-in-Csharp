@@ -1,0 +1,18 @@
+C:\Users\Morteza\Desktop\KMeansClustering\KMeansClustering\bin\Debug\KMeansClustering.exe.config
+C:\Users\Morteza\Desktop\KMeansClustering\KMeansClustering\bin\Debug\KMeansClustering.exe
+C:\Users\Morteza\Desktop\KMeansClustering\KMeansClustering\bin\Debug\KMeansClustering.pdb
+C:\Users\Morteza\Desktop\KMeansClustering\KMeansClustering\obj\Debug\KMeansClustering.Form1.resources
+C:\Users\Morteza\Desktop\KMeansClustering\KMeansClustering\obj\Debug\KMeansClustering.Properties.Resources.resources
+C:\Users\Morteza\Desktop\KMeansClustering\KMeansClustering\obj\Debug\KMeansClustering.csproj.GenerateResource.Cache
+C:\Users\Morteza\Desktop\KMeansClustering\KMeansClustering\obj\Debug\KMeansClustering.exe
+C:\Users\Morteza\Desktop\KMeansClustering\KMeansClustering\obj\Debug\KMeansClustering.pdb
+C:\Users\Morteza\Desktop\KMeansClustering\KMeansClustering\obj\Debug\KMeansClustering.csprojResolveAssemblyReference.cache
+E:\Programming\My jobs\KMeansClustering\KMeansClustering\bin\Debug\KMeansClustering.exe.config
+E:\Programming\My jobs\KMeansClustering\KMeansClustering\obj\Debug\KMeansClustering.exe
+E:\Programming\My jobs\KMeansClustering\KMeansClustering\obj\Debug\KMeansClustering.pdb
+E:\Programming\My jobs\KMeansClustering\KMeansClustering\bin\Debug\KMeansClustering.exe
+E:\Programming\My jobs\KMeansClustering\KMeansClustering\bin\Debug\KMeansClustering.pdb
+E:\Programming\My jobs\KMeansClustering\KMeansClustering\obj\Debug\KMeansClustering.csprojResolveAssemblyReference.cache
+E:\Programming\My jobs\KMeansClustering\KMeansClustering\obj\Debug\KMeansClustering.Form1.resources
+E:\Programming\My jobs\KMeansClustering\KMeansClustering\obj\Debug\KMeansClustering.Properties.Resources.resources
+E:\Programming\My jobs\KMeansClustering\KMeansClustering\obj\Debug\KMeansClustering.csproj.GenerateResource.Cache
